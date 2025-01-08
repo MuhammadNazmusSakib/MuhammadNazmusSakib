@@ -1,16 +1,16 @@
 ![GitHub Banner](https://yourbannerlinkhere.com/banner.png)
 
-# Hi there, I'm [Muhammad Nazmus Sakib] 👋  
+# I'm Muhammad Nazmus Sakib  
 ### 🌟 Frontend Developer | MERN Stack Learner | Aspiring .NET Developer  
 
 ---
 
-## 👩‍💻 **About Me**  
+## 👩‍💻 **About**  
 I am a passionate and dedicated developer currently focused on enhancing my skills in backend development and exploring modern frameworks and tools. My journey revolves around learning, building, and sharing knowledge.  
 
-- 🌱 I’m currently learning **MERN Stack** and diving into **.NET for OOP**.  
-- 🚀 I’m working on developing robust APIs and enhancing database optimization techniques.  
-- ✨ I enjoy solving real-world problems through **Mathematical Modeling** and **Scientific Computing**.  
+-  I’m currently learning **MERN Stack** and diving into **.NET for OOP**.  
+-  I’m working on developing robust APIs and enhancing database optimization techniques.  
+-  I enjoy solving real-world problems through **Mathematical Modeling** and **Scientific Computing**.  
 
 ---
 
@@ -36,8 +36,7 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 ---
 
 ## 📊 **GitHub Stats**
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadNazmusSakib&show_icons=true&theme=radical)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNazmusSakib&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNazmusSakib&theme=radical)  
 
