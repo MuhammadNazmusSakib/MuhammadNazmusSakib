@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co.com/vmwCFcy/wp8903933-mern-stack-wallpapers.jpg)
+![GitHub Banner](https://i.ibb.co.com/X5m31bP/wp8903890-mern-stack-wallpapers.jpg)
 
 # I'm Muhammad Nazmus Sakib  
 ### 🌟 Frontend Developer | MERN Stack Learner  
