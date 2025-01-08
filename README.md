@@ -1,7 +1,7 @@
 ![GitHub Banner](https://i.ibb.co.com/XfHWr3r/github-banner.jpg)
 
-# I'm Muhammad Nazmus Sakib  
-### 🌟 Frontend Developer | MERN Stack Learner  
+# Hi, I'm Muhammad Nazmus Sakib  
+###  Frontend Developer | MERN Stack Learner  
 
 ---
 
@@ -32,8 +32,7 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 ## 🌐 **Connect with Me**  
 📍 **Location:** Chittagong, Bangladesh  
 📧 **Email:** [sakib21feb@gmail.com](mailto:sakib21feb@gmail.com)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNazmusSakib)  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nazmus-sakib/)  
 [![Portfolio](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammad-nazmus-sakib.web.app/)  
 
