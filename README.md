@@ -61,7 +61,6 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNazmusSakib&show_icons=true&hide_title=true&hide_rank=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNazmusSakib" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadNazmusSakib&theme=default" alt="GitHub Contribution Line Graph" />
 </div>
