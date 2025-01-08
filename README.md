@@ -1,4 +1,4 @@
-![GitHub Banner](https://yourbannerlinkhere.com/banner.png)
+![GitHub Banner](https://i.ibb.co.com/vmwCFcy/wp8903933-mern-stack-wallpapers.jpg)
 
 # I'm Muhammad Nazmus Sakib  
 ### 🌟 Frontend Developer | MERN Stack Learner | Aspiring .NET Developer  
@@ -50,6 +50,14 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 
 ---
 
+## 📌 **Pinned Repositories**
+
+[![Vocabulary Learning Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Vocabulary-Learning-Client-)](https://github.com/MuhammadNazmusSakib/Vocabulary-Learning-Client-)  
+[![Library Management System Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Library-Management-System-Client)](https://github.com/MuhammadNazmusSakib/Library-Management-System-Client)  
+[![Visa Navigator Portal Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Visa-Navigator-Portal-Client)](https://github.com/MuhammadNazmusSakib/Visa-Navigator-Portal-Client)  
+
+---
+
 ## 📊 **GitHub Stats**
 
 <div align="center">
@@ -59,13 +67,3 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 </div>
 
 ---
-
-## 📌 **Pinned Repositories**
-
-[![Vocabulary Learning Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Vocabulary-Learning-Client-)](https://github.com/MuhammadNazmusSakib/Vocabulary-Learning-Client-)  
-[![Library Management System Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Library-Management-System-Client)](https://github.com/MuhammadNazmusSakib/Library-Management-System-Client)  
-[![Visa Navigator Portal Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Visa-Navigator-Portal-Client)](https://github.com/MuhammadNazmusSakib/Visa-Navigator-Portal-Client)  
-
----
-
-⭐ **Thank you for visiting my profile! Feel free to connect or explore my repositories.**
