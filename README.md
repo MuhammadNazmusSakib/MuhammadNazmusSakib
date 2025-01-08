@@ -52,7 +52,7 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 
 ## 📌 **Pinned Repositories**
 
-[![Vocabulary Learning Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Vocabulary-Learning-Client-)](https://github.com/MuhammadNazmusSakib/Vocabulary-Learning-Client-)  
+ 
 [![Library Management System Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Library-Management-System-Client)](https://github.com/MuhammadNazmusSakib/Library-Management-System-Client)  
 [![Visa Navigator Portal Client](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadNazmusSakib&repo=Visa-Navigator-Portal-Client)](https://github.com/MuhammadNazmusSakib/Visa-Navigator-Portal-Client)  
 
