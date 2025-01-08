@@ -31,7 +31,7 @@ I am a passionate and dedicated developer currently focused on enhancing my skil
 📍 Location: Dhaka, Bangladesh  
 📧 Email: [sakib21feb@gmail.com](mailto:sakib21feb@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nazmus-sakib/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadNazmusSakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-nazmus-sakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://muhammad-nazmus-sakib.web.app/)  
 
 ---
 
